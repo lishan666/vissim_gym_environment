@@ -1,0 +1,15 @@
+使用方法：
+1、安装Vissim4.30软件，复制3个许可证文件到对应安装位置，默认安装在C:\Program Files (x86)
+2、浏览安装目录，找到vissim.exe文件，默认在C:\Program Files (x86)\PTV_Vision\VISSIM430\Exe\vissim.exe
+3、鼠标右键run vissim.bat文件，编辑路径为刚才找到的路径，例如：
+     RunAsDate.exe /movetime 01\01\2008 00:00:01 "D:\Program Files\PTV_Vision\VISSIM430\Exe\vissim.exe"
+4、双击run vissim.bat文件，自动打开Vissim软件
+
+
+使用注意：
+1、若启动失败，修改命令中的时间或日期，可以秒为单位逐渐增加，例如修改为01\01\2008 00:00:05
+2、当时间设置为12\31\2008 23:23:59依然无法运行时，只能卸载重装Vissim，清除与Vissim有关的注册表信息，或者重装系统
+3、在命令行中使用/movetime时，代表运行程序后，时间继续走动
+4、在命令行中使用/movetime时，打开Vissim软件后可手动按下停止仿真按钮，可通过编程COM接口控制程序运行
+5、在命令行中不使用/movetime时，打开Vissim软件后无法手动按下停止仿真按钮，但可通过编程COM接口控制程序运行
+6、关闭Vissim时，在Vissim界面点击File->Exit，否则下一次启动Vissim可能需要增加1秒时间

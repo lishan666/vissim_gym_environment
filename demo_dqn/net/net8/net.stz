@@ -1,0 +1,29 @@
+
+Queue Length Record
+
+File:     d:\itmsts\visism_gym_environment\demo_dqn\net\net8\net.inp
+Comment:  
+Date:     2022Äê5ÔÂ13ÈÕ 13:40:27
+
+Queue Counter        1: Link     1 At     367.061 m
+Queue Counter        2: Link     2 At     366.758 m
+Queue Counter        3: Link     7 At     351.586 m
+Queue Counter        4: Link     8 At     356.123 m
+Queue Counter        5: Link    16 At     274.844 m
+Queue Counter        6: Link    15 At     265.699 m
+Queue Counter        7: Link     9 At     258.867 m
+Queue Counter        8: Link    10 At     267.360 m
+
+Avg.: average queue length [m] within time interval
+Max.: maximum queue length [m] within time interval
+Stop: number of stops within queue
+
+  Time; Avg.; max;Stop; Avg.; max;Stop; Avg.; max;Stop; Avg.; max;Stop; Avg.; max;Stop; Avg.; max;Stop; Avg.; max;Stop; Avg.; max;Stop; 
+  No.:;    1;   1;   1;    2;   2;   2;    3;   3;   3;    4;   4;   4;    5;   5;   5;    6;   6;   6;    7;   7;   7;    8;   8;   8; 
+   130;   10;  35;   5;    0;   0;   0;    0;   0;   0;   19;  57;   9;    5;  39;   6;    3;  20;   3;    0;   0;   0;    0;   0;   0; 
+   260;    9;  43;   4;   11;  46;   7;    7;  25;   4;   24;  65;   6;   49; 109;  18;    4;  14;   2;    2;  18;   3;   14;  44;   7; 
+   390;    9;  50;   6;    1;  15;   3;    0;   0;   0;    5;  54;   2;   32;  92;   9;    0;   6;   1;    6;  27;   6;    4;  23;   4; 
+   520;   13;  57;   6;    0;   0;   0;   13;  43;   6;   11;  35;   5;   27;  66;  12;    8;  21;   3;   14;  60;   8;    6;  33;   6; 
+   650;   17;  40;   6;    3;  20;   3;   23;  63;   7;   11;  53;  11;   41; 106;  14;    2;  12;   2;   40;  75;  15;    7;  30;   5; 
+   780;    8;  46;   5;    0;   0;   0;    4;  26;   3;   14;  69;   7;   16;  66;  12;    5;  28;   3;   54; 102;  17;    8;  32;   5; 
+   804;   19;  48;   2;    0;  10;   1;    0;   0;   0;    7;  24;   0;   50;  58;   2;    0;   0;   0;   77;  87;   2;    0;   0;   0; 

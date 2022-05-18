@@ -1,0 +1,81 @@
+
+Data Collection (Compiled Data)
+
+File:     d:\itmsts\visism_gym_environment\demo_dqn\net\net8\net.inp
+Comment:  
+Date:     2022Äê5ÔÂ13ÈÕ 13:40:27
+
+Measurement     1: Data Collection Point(s) 1
+Measurement     2: Data Collection Point(s) 2
+Measurement     3: Data Collection Point(s) 3
+Measurement     4: Data Collection Point(s) 4
+Measurement     5: Data Collection Point(s) 5
+Measurement     6: Data Collection Point(s) 6
+Measurement     7: Data Collection Point(s) 7
+Measurement     8: Data Collection Point(s) 8
+
+Measur.: Data Collection Number
+from: Start time of the Aggregation interval
+to: End time of the Aggregation interval
+Number Veh: Number of Vehicles
+Speed: Speed [km/h]
+
+Measur.;from;to;Number Veh;Speed
+       ;    ;  ;;Mean
+       ;    ;  ;all veh. types;all veh. types
+1;0;130;3;20.3
+2;0;130;4;23.9
+3;0;130;4;41.5
+4;0;130;4;25.2
+5;0;130;6;32.1
+6;0;130;7;31.3
+7;0;130;8;30.4
+8;0;130;3;38.7
+1;130;260;11;35.5
+2;130;260;6;37.3
+3;130;260;8;28.5
+4;130;260;15;35.1
+5;130;260;15;43.4
+6;130;260;4;23.5
+7;130;260;9;36.6
+8;130;260;11;33.6
+1;260;390;9;34.6
+2;260;390;9;31.5
+3;260;390;7;29.2
+4;260;390;11;32.4
+5;260;390;16;34.2
+6;260;390;4;24.9
+7;260;390;10;30.2
+8;260;390;6;23.0
+1;390;520;12;31.6
+2;390;520;6;33.0
+3;390;520;12;37.7
+4;390;520;6;32.6
+5;390;520;14;38.8
+6;390;520;6;25.2
+7;390;520;12;34.3
+8;390;520;9;31.6
+1;520;650;11;30.3
+2;520;650;9;31.1
+3;520;650;12;35.9
+4;520;650;11;31.5
+5;520;650;14;37.1
+6;520;650;5;20.5
+7;520;650;12;35.0
+8;520;650;9;31.9
+1;650;780;13;40.3
+2;650;780;5;17.7
+3;650;780;8;29.8
+4;650;780;17;38.3
+5;650;780;12;29.8
+6;650;780;6;23.8
+7;650;780;13;39.3
+8;650;780;6;18.2
+1;780;804;8;35.8
+2;780;804;0;0.0
+3;780;804;1;25.3
+4;780;804;5;30.9
+5;780;804;0;0.0
+6;780;804;2;26.1
+7;780;804;0;0.0
+8;780;804;2;28.9
